@@ -1,2 +1,2 @@
 # passeio-de-barco
-barco velejando 
+barco navegando
